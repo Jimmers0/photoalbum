@@ -1,0 +1,186 @@
+{
+  "Albums": [
+    {
+      "id": 1,
+      "name": "Nissan 370z",
+      "coverphoto": "https://i.pinimg.com/736x/73/3f/97/733f9704369e43f61eedb47c6c752a64.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Toyota Supra",
+      "coverphoto": "https://live.staticflickr.com/716/32137566946_06e0d0003f_b.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nissan Skyline",
+      "coverphoto": "https://farm2.static.flickr.com/1454/24366151004_a0d846212c_b.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Nissan Silvia",
+      "coverphoto": "https://wheelfront.com/wp-content/uploads/formidable/8/s15-work-m1-1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rotary Cars",
+      "coverphoto": "https://static.carthrottle.com/workspace/uploads/posts/2015/08/c98dae46-4fe5-4b5f-a06d-9f42dd0c7e32.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Miata Gang",
+      "coverphoto": "https://philscarblog.files.wordpress.com/2010/02/4321483992_9548dd82fc_b.jpg"
+    }
+  ],
+  "Cars": [
+    {
+      "id": 1,
+      "AlbumId":1,
+      "name": "The Banana",
+      "img": "https://i.imgur.com/8tKmLtY.jpg"
+
+    },
+    {
+      "id": 2,
+      "AlbumId":1,
+      "name": "Nismo v2",
+      "img": "https://i.pinimg.com/736x/73/3f/97/733f9704369e43f61eedb47c6c752a64.jpg"
+    },
+    {
+      "id": 3,
+      "AlbumId":1,
+      "name": "Kamikazee Z",
+      "img": "https://dsportmag.com/wp-content/uploads/2016/09/168-Feat-Kamikaze-Z-000-Lead.jpg"
+    },
+    {
+      "id": 4,
+      "AlbumId":1,
+      "name": "Nismo v1",
+      "img": "http://thirdworldsociety.com/wp-content/uploads/2016/10/15.jpg"
+    },
+    {
+      "id": 5,
+      "AlbumId":2,
+      "name": "Supra Rear End",
+      "img": "https://i.ytimg.com/vi/5Ha-qp1RpeA/maxresdefault.jpg"
+
+    },
+    {
+      "id": 6,
+      "AlbumId":2,
+      "name": "Red Supra",
+      "img": "https://i.ytimg.com/vi/p4fY0JozL9M/maxresdefault.jpg"
+    },
+    {
+      "id": 7,
+      "AlbumId":2,
+      "name": "Gray Supra",
+      "img": "https://live.staticflickr.com/716/32137566946_06e0d0003f_b.jpg"
+    },
+    {
+      "id": 8,
+      "AlbumId":2,
+      "name": "Two Supra's",
+      "img": "https://scontent.cdninstagram.com/vp/89a41e23aaef9d0ecec7d5019492e36c/5DBAFE02/t51.2885-15/e35/c315.0.810.810a/s480x480/61987560_154091585719300_4925760805560522644_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com"
+    },
+    {
+      "id": 9,
+      "AlbumId":3,
+      "name": "R34 Skyline",
+      "img": "https://asiangiant.files.wordpress.com/2012/01/6404177605_985fbe61c5_b.jpg"
+
+    },
+    {
+      "id": 10,
+      "AlbumId":3,
+      "name": "R33",
+      "img": "https://farm2.static.flickr.com/1454/24366151004_a0d846212c_b.jpg"
+    },
+    {
+      "id": 11,
+      "AlbumId":3,
+      "name": "R32 Skyline",
+      "img": "https://i.pinimg.com/originals/9a/94/40/9a9440427ad62db1c3e6c5f4fa5f9021.jpg"
+    },
+    {
+      "id": 12,
+      "AlbumId":3,
+      "name": "R35",
+      "img": "https://i.pinimg.com/originals/b0/b4/ff/b0b4ff525c19bb3e1089405a39f48b6f.jpg"
+    },
+    {
+      "id": 13,
+      "AlbumId":4,
+      "name": "Zenki",
+      "img": "http://scrapedcrusaders.com/wp-content/uploads/2015/09/jp11.jpg"
+
+    },
+    {
+      "id": 14,
+      "AlbumId":4,
+      "name": "Nissan s15",
+      "img": "https://wheelfront.com/wp-content/uploads/formidable/8/s15-work-m1-1.jpg"
+    },
+    {
+      "id": 15,
+      "AlbumId":4,
+      "name": "Kouki",
+      "img": "https://scontent-lax3-1.cdninstagram.com/vp/af039851fe0f035d3b65139ca05bfb1f/5DB3B41B/t51.2885-15/e35/57226648_1077885629069315_4769102605307718245_n.jpg?_nc_ht=scontent-lax3-1.cdninstagram.com"
+    },
+    {
+      "id": 16,
+      "AlbumId":4,
+      "name": "180 Hatch",
+      "img": "https://cdn.shopify.com/s/files/1/1705/8047/products/Snip20180205_15_760x.png?v=1524216911%27"
+    },
+    {
+      "id": 17,
+      "AlbumId":5,
+      "name": "Rx8",
+      "img": "https://static.carthrottle.com/workspace/uploads/posts/2015/08/c98dae46-4fe5-4b5f-a06d-9f42dd0c7e32.jpg"
+
+    },
+    {
+      "id": 18,
+      "AlbumId":5,
+      "name": "Yellow rx7s",
+      "img": "https://d39a3h63xew422.cloudfront.net/wp-content/uploads/2017/11/05201043/Michael-Mauro-Jason-Poco-RX7-6-1000x667.jpg"
+    },
+    {
+      "id": 19,
+      "AlbumId":5,
+      "name": "Twerkstallion",
+      "img": "https://exploregram.com/wp-content/uploads/2017/08/we-re-taking-bets-on-whether-hertlife-s-car-will-come-back-from-gridlifeofficial.jpeg"
+    },
+    {
+      "id": 20,
+      "AlbumId":5,
+      "name": "Big Wang rx7",
+      "img": "https://i.pinimg.com/originals/d5/d4/34/d5d43441f6a39ab121d5cd33ad4437d2.jpg"
+    },
+    {
+      "id": 21,
+      "AlbumId":6,
+      "name": "NA Miata",
+      "img": "http://naritadogfight.files.wordpress.com/2012/04/dsc9030.jpg"
+
+    },
+    {
+      "id": 22,
+      "AlbumId":6,
+      "name": "NB Miata",
+      "img": "https://i.ytimg.com/vi/zpK59ykCs84/maxresdefault.jpg"
+    },
+    {
+      "id": 23,
+      "AlbumId":6,
+      "name": "NC Miata",
+      "img": "https://philscarblog.files.wordpress.com/2010/02/4321483992_9548dd82fc_b.jpg"
+    },
+    {
+      "id": 24,
+      "AlbumId":6,
+      "name": "ND Miata",
+      "img": "https://scontent-sea1-1.cdninstagram.com/vp/5b5ff02ba1af21c4bc9a44b06bbefca6/5DA3FB36/t51.2885-15/e35/54230487_1756989087734763_268557603339343589_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&se=7&ig_cache_key=MjAwMjg2NDE4MDQ5MjEwNDAxMw%3D%3D.2"
+    }
+  ]
+}
