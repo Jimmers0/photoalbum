@@ -47,7 +47,7 @@ class FullPicture extends Component {
 
         <div className="largecontainer">
        <div className="backbutton">
-          <Link to={`/Album/${this.state.id}`}>
+          <Link to={`/Album/${this.state.id}`} style={{ textDecoration: 'none' , color: 'black'}}>
           Back
           </Link>
           </div>
